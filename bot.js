@@ -1,6 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-RECODDED BY TWOSTYLE__BOT
-Plk  
+RECODDED BY TWOSTYLE_BOT  
 */
 
 const fs = require("fs");
@@ -133,7 +132,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('TWOSTYLE__BOT working perfectly 👻')
+            chalk.green.bold('TWOSTYLE_BOT working perfectly 👻')
         );
     });
     
@@ -237,7 +236,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'TR' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [TWOSTYLE__BOT] --' + 
+                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [TWOSTYLE-BOT] --' + 
                                     '\n*WhatsAsena bir hata gerçekleşti!*'+
                                     '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
                                     '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
@@ -245,7 +244,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'TWOSTYLE__BOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'TWOSTYLE-BOT_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
