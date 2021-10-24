@@ -4,10 +4,10 @@
 <div align="center">
   <img border-radius: 15px src="twostylebot.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="TWOSTYLE__BOT" src="https://img.shields.io/badge/itsme-twostylebot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TWOSTYLE_BOT_V1" src="https://img.shields.io/badge/itsme-twostylebot-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsme-twostylebot"><img title="Author" src="https://img.shields.io/badge/Author-itsme-twostylebot/TWOSTYLE__BOT?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/itsme-twostylebot"><img title="Author" src="https://img.shields.io/badge/Author-itsme-twostylebot/TWOSTYLE_BOT_V1?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -21,18 +21,18 @@ Project created by <a href="https://github.com/itsme-twostylebot">itsme-twostyle
 ----
 
   <p align="center">
-  <a href="https://github.com/itsme-twostylebot/TWOSTYLE__BOT">
-    <img src="https://img.shields.io/github/repo-size/itsme-twostylebot/TWOSTYLE__BOT?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/itsme-twostylebot/TWOSTYLE_BOT_V1">
+    <img src="https://img.shields.io/github/repo-size/itsme-twostylebot/TWOSTYLE_BOT_V1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/itsme-twostylebot/followers"><img title="Followers" src="https://img.shields.io/github/followers/itsme-twostylebot?color=red&style=flat-circle"></a>
-<a href="https://github.com/itsme-twostylebot/TWOSTYLE__BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itsme-twostylebot/TWOSTYLE__BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/itsme-twostylebot/TWOSTYLE__BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itsme-twostylebot/TWOSTYLE__BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/itsme-twostylebot/TWOSTYLE__BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/itsme-twostylebot/TWOSTYLE__BOT?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/itsme-twostylebot/TWOSTYLE_BOT_V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itsme-twostylebot/TWOSTYLE_BOT_V1?color=red&style=flat-square"></a>
+<a href="https://github.com/itsme-twostylebot/TWOSTYLE_BOT_V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/itsme-twostylebot/TWOSTYLE_BOT_V1?color=red&style=flat-square"></a>
+<a href="https://github.com/itsme-twostylebot/TWOSTYLE_BOT_V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/itsme-twostylebot/TWOSTYLE_BOT_V1?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
   
-TWOSTYLE__BOT - TWOSTYLE__BOT Userbot is Open Source software open to development. 
+TWOSTYLE_BOT_V1 - TWOSTYLE_BOT_V1 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsme-twostylebot/TWOSTYLE__BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsme-twostylebot/TWOSTYLE_BOT_V1)
      </div>
 <br>
 <br >
